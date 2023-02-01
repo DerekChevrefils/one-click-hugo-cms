@@ -3,9 +3,9 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "Nanaimo, B.C."
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "On-call 24/7"
 ---
 
 We’d love to get in touch with you and hear your ideas and
